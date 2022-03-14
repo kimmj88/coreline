@@ -19,7 +19,7 @@ sql.connect(config, function(err){
     console.log('MSSQL connect Success')
 })
 
-
+//kim min jae
 process.on('uncaughtException', function (err) {
     console.error('error what?');
 });
