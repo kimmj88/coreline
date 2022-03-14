@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mssql": "^8.0.2",
+    "soap": "^0.43.0"
+  }
+}
